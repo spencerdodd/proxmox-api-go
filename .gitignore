@@ -1,0 +1,4 @@
+proxmox-api-go
+.vagrant/
+.vscode
+.idea
